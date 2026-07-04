@@ -43,3 +43,10 @@ The analysis and model training are implemented in Python using the following co
 * **SHAP (SHapley Additive exPlanations):** Used for global interpretability to rank clinical features by overall impact.
 * **LIME (Local Interpretable Model-agnostic Explanations):** Used for case-by-case analysis to simulate how a clinician would evaluate an individual patient's risk profile.
 
+---
+
+## 📊 Results & Key Insights
+
+* **Best Performing Model:** The Hybrid TB-RiskX achieved an accuracy of `93%` and a Sensitivity/Recall of `89%`.
+
+
